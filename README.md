@@ -1,7 +1,6 @@
 ### Hi, I'm Beth! 👋
 
-I am a student web developer at [UCF Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp).
-Check out my repository to see the projects I am working on! 
+I am a student web developer at the [University of Central Florida](https://github.com/UCF-Coding-Boot-Camp). I will be graduating in December with a certificate in Full Stack Web Development. Check out my repository to see the projects I am working on! 
 
 ### About Me 👩‍💻
 I am a maker at heart, with a background in visual arts and theatrical design. I'm a graduate of the University of Central Florida with a Bachelor of Fine Arts degree. 
