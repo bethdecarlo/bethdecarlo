@@ -6,7 +6,7 @@ I am a student web developer at the [University of Central Florida](https://gith
 I am a maker at heart, with a background in design and educaton. I'm a graduate of the University of Central Florida with a Bachelor of Fine Arts degree. 
 
 
-Some of my achievements include teaching a STEAM curriculum to K-12 students in Central Florida, virtual teaching for ExoLab9 (a collaborative research project between Magnitude.io and the International Space Station), a graphic design internship with Walt Disney Entertainment, and colloborative works with the UCF School of Performing Arts and the UCF School of Visual Arts and Design. 
+Some of my achievements include working as a STEAM educator to exceptional education students in Central Florida, virtual teaching for ExoLab9 (a collaborative research project between Magnitude.io and the International Space Station), a graphic design internship with Walt Disney Entertainment, and colloborative works with the UCF School of Performing Arts and the UCF School of Visual Arts and Design. 
 
 
 I feel most in my element when I am working on a team: communicating ideas, sharing solutions, and turning those BIG ideas into SUCCESSFUL projects. ✨ Team work makes the dream work! ✨
