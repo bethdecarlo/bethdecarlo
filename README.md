@@ -1,6 +1,6 @@
 ### Hi, I'm Beth! 
 
-I am a full stack web development student at the [University of Central Florida](https://github.com/UCF-Coding-Boot-Camp). I have a teaching and design background. I'm passionate about agile work environments and universal design. 
+I am a full stack web development student at the [University of Central Florida](https://github.com/UCF-Coding-Boot-Camp). I have a teaching and design background. I'm passionate about agile software development and universal design. 
 
 ### The 411
 * HTML, CSS, JavaScript
